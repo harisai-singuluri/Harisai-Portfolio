@@ -56,7 +56,6 @@ const About = () => {
           <div className="flex gap-3 sm:gap-4 justify-center lg:justify-start mt-4 sm:mt-6">
             <a href="https://www.linkedin.com/in/singuluri-harisai/" target="_blank" rel="noopener noreferrer" className="bg-slate-800/60 hover:bg-cyan-500/20 text-cyan-300 p-2 sm:p-3 rounded-full transition-all duration-300 text-lg sm:text-xl"><FaLinkedin /></a>
             <a href="https://github.com/harisai-singuluri" target="_blank" rel="noopener noreferrer" className="bg-slate-800/60 hover:bg-cyan-500/20 text-cyan-300 p-2 sm:p-3 rounded-full transition-all duration-300 text-lg sm:text-xl"><FaGithub /></a>
-            <a href="https://www.instagram.com/harisai_aura?igsh=dzJhbjJ6dHZkbmlw&utm_source=qr" target="_blank" rel="noopener noreferrer" className="bg-slate-800/60 hover:bg-cyan-500/20 text-cyan-300 p-2 sm:p-3 rounded-full transition-all duration-300 text-lg sm:text-xl"><FaInstagram /></a>
             <a href="https://x.com/VivekKumar2574" target="_blank" rel="noopener noreferrer" className="bg-slate-800/60 hover:bg-cyan-500/20 text-cyan-300 p-2 sm:p-3 rounded-full transition-all duration-300 text-lg sm:text-xl"><FaXTwitter /></a>
             <a href="https://www.youtube.com/@harisai_universe?si=aP_hQH0cR5mOmSur" target="_blank" rel="noopener noreferrer" className="bg-slate-800/60 hover:bg-cyan-500/20 text-cyan-300 p-2 sm:p-3 rounded-full transition-all duration-300 text-lg sm:text-xl"><FaYoutube /></a>
           </div>
@@ -113,7 +112,7 @@ const About = () => {
             >
               <img
                 src={profileImage}
-                alt="Vivek Kumar"
+                alt="Singuluri Harisai"
                 className="w-full h-full object-cover rounded-full"
               />
               
