@@ -229,8 +229,8 @@ export const SkillsInfo = [
         "A powerful and user-friendly React.js application designed to uncover and showcase detailed GitHub profile information.Simply enter a GitHub username, and the app fetches comprehensive data including profile stats, repositories, followers, and contributions.The intuitive interface ensures a seamless experience, making it a must-visit tool for developers and recruiters.",
       image: movierecLogo,
       tags: ["React JS", "Node.js", "Tailwind CSS", "GitHub REST API"],
-      github: "https://github.com/harisai-singuluri?tab=repositories",
-      webapp: "https://github.com/harisai-singuluri?tab=repositories/",
+      github: "https://github.com/harisai-singuluri/Github-Profile-Checker",
+      webapp: "https://github-profile-checker-xi.vercel.app/",
     },
     {
       id: 4,
@@ -239,8 +239,8 @@ export const SkillsInfo = [
         "FundRoots is a modern platform showcasing funding-focused features and clean UI.",
       image: fundrootLogo,
       tags: ["React JS", "Next.js", "Tailwind CSS", "Node.js", "Express.js", "MySQL","MongoDB","JWT Authentication","REST API"],
-      github: "https://github.com/harisai-singuluri?tab=repositories",
-      webapp: "https://github.com/harisai-singuluri?tab=repositories",
+      github: "https://github.com/harisai-singuluri/FundRoot",
+      webapp: "https://fund-root.vercel.app/",
     },
     {
       id: 5,
@@ -249,8 +249,8 @@ export const SkillsInfo = [
         "A comprehensive weather application built with React.js that provides real-time weather information for cities worldwide. Users can search for any city and get detailed weather data including temperature, humidity, wind speed, and weather conditions. The app features a clean, responsive design with dynamic weather icons and provides both current weather and forecast information.",
       image: weatherinfoLogo,
       tags: ["React JS", "API", "Weather API", "CSS", "Javascript"],
-      github: "https://github.com/harisai-singuluri?tab=repositories",
-      webapp: "https://github.com/harisai-singuluri?tab=repositories",
+      github: "https://github.com/harisai-singuluri/Wheather-Info-main",
+      webapp: "https://wheather-info-main.vercel.app/",
     },
   
     {
